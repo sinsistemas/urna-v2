@@ -1,0 +1,14 @@
+.alertaLogin,
+.loadLogin {
+    display: none;
+    position: absolute;
+    top: 150px;
+}
+
+#mostrar_selecao_alert {
+    display: none;
+}
+
+.main-container-novo {
+    padding: 0px !important;
+}

@@ -1,0 +1,1 @@
+{"clientes_id":"1","cli_email":"test_user_80507629@testus","modulos_id":"1","cli_cpf":"05595562501","cli_cnpj":null}

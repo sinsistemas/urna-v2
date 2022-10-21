@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.fc .fc-toolbar-title {
+    font-size: 17px !important;
+    text-transform: uppercase;
+}
+
+a.fc-col-header-cell-cushion {
+    text-transform: uppercase;
+}
